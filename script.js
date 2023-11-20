@@ -1,5 +1,5 @@
 const generateRandomNumber = () => {
-  return Math.floor(Math.random() * 100) + 1; // Generate a random number between 1 and 100
+  return Math.floor(Math.random() * 101) + 1; // Generate a random number between 1 and 100
 };
 
 function checkGuess() {
